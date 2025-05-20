@@ -168,4 +168,4 @@ Once both servers are running, you can access them at the following URL's:
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-- [Aditya](https://github.com/A-d-e-e)
+- [Aditya Pratap Singh](https://github.com/A-d-e-e)
